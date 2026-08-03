@@ -1,0 +1,13 @@
+{
+  "demo": [
+    {
+      "id": "template",
+      "title": "Plugin Template",
+      "icon": "△",
+      "paletteKey": "cyan",
+      "description": "Starter template for building TrustGraph plugins.",
+      "url": "/plugins/template.iife.js",
+      "globalName": "TemplatePlugin"
+    }
+  ]
+}
